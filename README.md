@@ -23,7 +23,7 @@ different subfolders:
     - black insulating tape
     - alluminium foil
 ## softwere used
-    - theremino particle detector V1.1: [theremino download](https://physicsopenlab.org/wp-content/uploads/2021/07/Theremino_ParticleDetector_1.1.zip)
-    - Cosmic Ray Finder (alternative to theremino): [CRF](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTBrVW9PNUQ1OXpNaGJlNDJmaEJTRF9UYmd0QXxBQ3Jtc0trZDBZSHV2ZzZxbUFEZ24xYXRfNGY0Y2ZnTFUyamxlSmZ3UHE3Y1hieFFVWkZEOGh6ZlJGaHNHOUVWaGlaT1NOS2ZmYU9MazNIMU4zSGtvaGFOY3JmSnVyY0JYM3F3NS1QNkhGTGZmc28zUmxNWU1Iaw&q=https%3A%2F%2Ffoxylab.com%2FCRF.php%3Fen&v=k-Nxso1DdhA)
-    - GIMP (to edit the image)
-    - F3D (to visualise the stl file)
+1. theremino particle detector V1.1: [theremino download](https://physicsopenlab.org/wp-content/uploads/2021/07/Theremino_ParticleDetector_1.1.zip)
+2. Cosmic Ray Finder (alternative to theremino): [CRF](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTBrVW9PNUQ1OXpNaGJlNDJmaEJTRF9UYmd0QXxBQ3Jtc0trZDBZSHV2ZzZxbUFEZ24xYXRfNGY0Y2ZnTFUyamxlSmZ3UHE3Y1hieFFVWkZEOGh6ZlJGaHNHOUVWaGlaT1NOS2ZmYU9MazNIMU4zSGtvaGFOY3JmSnVyY0JYM3F3NS1QNkhGTGZmc28zUmxNWU1Iaw&q=https%3A%2F%2Ffoxylab.com%2FCRF.php%3Fen&v=k-Nxso1DdhA)
+3. GIMP (to edit the image)
+4. F3D (to visualise the stl file)
